@@ -1,0 +1,19 @@
+{
+  "name": "metodo_constructor",
+  "version": "1.0.0",
+  "description": "metodo constructor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gaetano1979/Met_constuctor.git"
+  },
+  "author": "Gaetano Sabino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gaetano1979/Met_constuctor/issues"
+  },
+  "homepage": "https://github.com/Gaetano1979/Met_constuctor#readme"
+}
